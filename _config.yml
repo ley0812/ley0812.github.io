@@ -1,10 +1,10 @@
 # Site Info
 title: Codinfox Lanyon
-tagline: 'A Jekyll theme based on Lanyon'
+tagline: 'MY NAME iS HAKMiN'
 description: 'A Jekyll theme adapted from <a href="http://lanyon.getpoole.com/" target="_blank">Lanyon</a>. Made by <a href="http://codinfox.github.io" target="_blank">@codinfox</a>.'
 baseurl: ""
 url: http://ley0812.github.io
-logo: '/public/logo.png'
+logo: '/public/img/programmer.png'
 
 # Site configurations
 gems:
@@ -52,9 +52,9 @@ nav:
 tag_page: '/blog/tags/'
 category_page: '/blog/categories/'
 
-hero:
-  image: /public/img/we_will_be_giants_by_yalestewart.jpg
-  caption: Original Artwork &copy; <a href="http://yalestewart.deviantart.com/art/We-Will-Be-Giants-370176475">Yale Stewart</a>
+main:
+  image: /public/img/main.jpeg
+  caption: Original Artwork 이희랑 <a href="http://mobile.picturebook-museum.com/book_detail_info.asp?searchkey=%C0%CC%C8%F1%B6%FB&searchnm=b_illustrator&siteGbn=&idx=43357&gbn=illustor">profile link</a>
 
 # Puglins
 mathjax: true # whether support mathjax
